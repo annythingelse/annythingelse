@@ -3,7 +3,7 @@
 Meu nome é Fernanda Guimarães, sou uma desenvolvedora front-end, com experiência sólida em desenvolvimento web. Sou extremamente criativa e procuro sempre aprender e dominar novas tecnologias. Aqui está um pouco sobre mim:
 
 ## 💼 Experiência e Habilidades 
-- Desenvolvimento front-end: com o foco em desenvolver sites de e-commerce, trabalhei utilizando tecnologias como: **ReactJS**, **TypeScript**, **HTML**, e **CSS/SaSS**; junto com a plataforma VTEX IO. 
+- Desenvolvimento front-end: com o foco em desenvolver sites de e-commerce, trabalho utilizando tecnologias como: **ReactJS**, **TypeScript**, **HTML**, e **CSS/SaSS**; junto com a plataforma VTEX IO. 
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
