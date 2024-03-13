@@ -1,6 +1,6 @@
 
 # 👋 Olá, bem vindo ao meu perfil!
-Meu nome é Fernanda Guimarães, sou uma desenvolvedora full-stack, com experiência sólida em desenvolvimento web. Sou extremamente criativa e procuro sempre aprender e dominar novas tecnologias. Aqui está um pouco sobre mim:
+Meu nome é Fernanda Guimarães, sou uma desenvolvedora front-end, com experiência sólida em desenvolvimento web. Sou extremamente criativa e procuro sempre aprender e dominar novas tecnologias. Aqui está um pouco sobre mim:
 
 ## 💼 Experiência e Habilidades 
 - Desenvolvimento front-end: com o foco em desenvolver sites de e-commerce, trabalhei utilizando tecnologias como: **ReactJS**, **TypeScript**, **HTML**, e **CSS/SaSS**; junto com a plataforma VTEX IO. 
